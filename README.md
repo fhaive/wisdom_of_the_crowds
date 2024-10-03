@@ -48,4 +48,4 @@ The easiest way to run it is to pull it from the docker hub with the following c
 
 and then open the browser to the address `localhost:8080`.
 
-All the viewer's features are documented in the user [manual](https://github.com/fhaive/wisdom_of_the_crowds/data_viewer/manual.pdf).
+All the viewer's features are documented in the user [manual](https://github.com/fhaive/wisdom_of_the_crowds/blob/master/data_viewer/manual.pdf).
